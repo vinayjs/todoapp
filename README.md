@@ -1,6 +1,6 @@
 # todo app using react js
 
-## link: [https://react-pizzacustomapp.netlify.app/]
+## link: [https://vinayjs-todoapp.netlify.app/]
 
 ## ReactJS is a declarative, efficient, and flexible JavaScript library for building reusable UI components. It is an open-source, component-based front end library which is responsible only for the view layer of the application. It was initially developed and maintained by Facebook and later used in its products like WhatsApp & Instagram.
 
